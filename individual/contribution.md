@@ -9,4 +9,5 @@ I advocated for using XGBoost rather than relying only on logistic regression be
 
 ## Lessons Learned
 
-One key lesson learned was the importance of clean feature engineering and validating assumptions early in the modeling process. If I had more time, I would improve model calibration and build a simple dashboard to allow business teams to interact with churn predictions more easily.
+One key lesson learned was the importance of clean feature engineering and validating assumptions early in the modeling process. If I had more time, I would improve model calibration and build a simple dashboard to allow business teams to interact with churn predictions more easily. This experience strengthened my ability to move from raw data to a production-ready predictive workflow.
+
