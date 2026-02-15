@@ -1,6 +1,7 @@
 ## My Contribution
 
-I contributed most strongly to the machine learning modeling process, particularly building and refining the XGBoost churn prediction model. I worked on feature engineering, model training, holdout scoring, and interpreting results using SHAP values.
+I contributed most strongly to the machine learning modeling process, particularly building and refining the XGBoost churn prediction model. I worked on creating engineered features, training and tuning the XGBoost model, generating holdout predictions, evaluating performance using AUC/ROC, and interpreting business drivers using SHAP values.
+
 
 ## One Decision I Advocated For
 
